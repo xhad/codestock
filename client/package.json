@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "angular-loading-bar": "^0.8.0",
-    "ejs": "^2.3.4",
+    "ejs": "^3.1.7",
     "express-partials": "^0.3.0",
     "express-session": "^1.12.1",
     "karma": "^0.13.15",
