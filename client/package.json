@@ -41,6 +41,6 @@
     "method-override": "^2.3.5",
     "passport": "^0.3.0",
     "passport-github2": "^0.1.9",
-    "router": "^1.1.3"
+    "router": "^2.0.0"
   }
 }
